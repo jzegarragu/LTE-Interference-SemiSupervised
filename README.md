@@ -1,6 +1,3 @@
-Aquí tienes el contenido listo para pegar en tu `README.md` (es Markdown válido para GitHub):
-
-````markdown
 # LTE Interference Classification via Semi-Supervised Teacher–Student Approach with CNN and ResNet
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
