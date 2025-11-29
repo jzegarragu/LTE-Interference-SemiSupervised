@@ -1,0 +1,5 @@
+Experimento,Estrategia,Test_F1_Macro,Test_Accuracy,Test_Recall
+EXP_3.2_FixMatch,Baseline SOTA Automatico (0.95),0.976068376,0.977777778,0.976190476
+EXP_3.4_SinExperto,Ablacion Humana (Auto 0.80),0.952258852,0.955555556,0.952380952
+EXP_3.3_Umb70,Sensibilidad Umbral 0.70,0.926617827,0.933333333,0.928571429
+EXP_3.3_Umb90,Sensibilidad Umbral 0.90,0.906349206,0.911111111,0.907738095

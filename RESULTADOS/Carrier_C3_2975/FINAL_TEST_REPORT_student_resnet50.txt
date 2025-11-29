@@ -1,0 +1,24 @@
+--- REPORTE FINAL DE TEST (MODELO: resnet50) ---
+Carrier: Carrier_C3_2975
+Fecha: 2025-11-23 14:18:54.200631
+Archivo Origen: D:\Python\RF_INTERF_4G\RESULTADOS\Carrier_C3_2975\student_trained_with_win_teachersresnet50\best_model.pth
+
+              precision    recall  f1-score   support
+
+ ARM_DELGADO       1.00      0.75      0.86         8
+          MW       0.88      1.00      0.93         7
+    PIM_OTRO       0.78      0.88      0.82         8
+        TINA       1.00      1.00      1.00         8
+        WIFI       1.00      1.00      1.00         7
+
+    accuracy                           0.92        38
+   macro avg       0.93      0.93      0.92        38
+weighted avg       0.93      0.92      0.92        38
+
+
+Matriz de Confusión:
+[[6 0 2 0 0]
+ [0 7 0 0 0]
+ [0 1 7 0 0]
+ [0 0 0 8 0]
+ [0 0 0 0 7]]

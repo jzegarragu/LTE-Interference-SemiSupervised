@@ -1,0 +1,22 @@
+--- REPORTE FINAL DE TEST (MODELO: resnet50) ---
+Carrier: Carrier_C1_675
+Fecha: 2025-11-23 14:19:47.681373
+Archivo Origen: D:\Python\RF_INTERF_4G\RESULTADOS\Carrier_C1_675\student_trained_with_win_teachersresnet50\best_model.pth
+
+              precision    recall  f1-score   support
+
+   ARM_ANCHO       1.00      0.62      0.77         8
+ ARM_DELGADO       1.00      1.00      1.00         7
+    PIM_OTRO       0.70      0.88      0.78         8
+        TINA       0.88      1.00      0.93         7
+
+    accuracy                           0.87        30
+   macro avg       0.89      0.88      0.87        30
+weighted avg       0.89      0.87      0.86        30
+
+
+Matriz de Confusión:
+[[5 0 3 0]
+ [0 7 0 0]
+ [0 0 7 1]
+ [0 0 0 7]]
